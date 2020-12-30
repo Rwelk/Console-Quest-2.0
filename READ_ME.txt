@@ -18,9 +18,9 @@
  You don't have to do anything special about it; the file's already in the folder.
  I just wanted to acknowledge its existence, and thank him for letting me use it.
  
- For that matter, I want to thank my proffesors, Matthew Eicholtz, Christian Roberson, and Johnathan Cazalas.
+ For that matter, I want to thank my professors, Matthew Eicholtz, Christian Roberson, and Johnathan Cazalas.
  All three of them were instrumental in my growth as a programmer, and I can't thank them enough for all the help.
 
  Anyways, I've talked you ear off long enough.
  I hope you have a fun time playing my game.
- Oh, and the recommended level for fighting the orc is ~15.
+ Oh, and the recommended level for fighting the Orc is ~15.
